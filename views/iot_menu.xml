@@ -1,0 +1,5 @@
+ <odoo>
+    <menuitem id="menu_iot" name="IoT Integration" sequence="10" />
+    <menuitem id="menu_iot_devices" name="IoT Devices" parent="menu_iot" action="iot_device_action" sequence="20" />
+</odoo>
+

@@ -1,0 +1,4 @@
+ id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_iot_device,iot.device,model_iot_device,,1,1,1,1
+access_iot_data,iot.data,model_iot_data,,1,1,1,1
+
